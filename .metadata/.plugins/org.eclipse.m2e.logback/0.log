@@ -1,0 +1,70 @@
+2024-10-08 08:52:14,580 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-08 08:53:32,279 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj01-FirstApp:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj01-FirstApp\pom.xml.
+2024-10-08 08:53:35,371 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj02-DBAsAuthProvider:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj02-DBAsAuthProvider\pom.xml.
+2024-10-08 08:53:35,950 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj03-SpringBootDataJPAAsAuthProvider:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj03-SpringBootDataJPAAsAuthProvider\pom.xml.
+2024-10-08 08:53:50,629 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj02-DBAsAuthProvider/src/main/java
+2024-10-08 08:53:50,630 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/main/resources
+2024-10-08 08:53:50,630 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/main/resources
+2024-10-08 08:53:50,632 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj02-DBAsAuthProvider/src/test/java
+2024-10-08 08:53:50,633 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/test/resources
+2024-10-08 08:53:52,520 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj01-FirstApp/src/main/java
+2024-10-08 08:53:52,520 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/main/resources
+2024-10-08 08:53:52,521 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/main/resources
+2024-10-08 08:53:52,522 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj01-FirstApp/src/test/java
+2024-10-08 08:53:52,522 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/test/resources
+2024-10-08 08:53:53,923 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/java
+2024-10-08 08:53:53,923 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/resources
+2024-10-08 08:53:53,923 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/resources
+2024-10-08 08:53:53,925 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/test/java
+2024-10-08 08:53:53,925 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/test/resources
+2024-10-08 08:53:56,458 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 35 sec
+2024-10-08 08:53:56,913 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-08 08:53:58,623 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj01-FirstApp:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj01-FirstApp\pom.xml.
+2024-10-08 08:53:59,356 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj02-DBAsAuthProvider:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj02-DBAsAuthProvider\pom.xml.
+2024-10-08 08:53:59,798 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: nit:BootSecurityProj03-SpringBootDataJPAAsAuthProvider:0.0.1-SNAPSHOT @ C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj03-SpringBootDataJPAAsAuthProvider\pom.xml.
+2024-10-08 08:54:02,052 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj01-FirstApp/src/main/java
+2024-10-08 08:54:02,053 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/main/resources
+2024-10-08 08:54:02,053 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/main/resources
+2024-10-08 08:54:02,054 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj01-FirstApp/src/test/java
+2024-10-08 08:54:02,055 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj01-FirstApp/src/test/resources
+2024-10-08 08:54:03,358 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj02-DBAsAuthProvider/src/main/java
+2024-10-08 08:54:03,358 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/main/resources
+2024-10-08 08:54:03,359 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/main/resources
+2024-10-08 08:54:03,360 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj02-DBAsAuthProvider/src/test/java
+2024-10-08 08:54:03,360 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj02-DBAsAuthProvider/src/test/resources
+2024-10-08 08:54:04,651 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/java
+2024-10-08 08:54:04,651 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/resources
+2024-10-08 08:54:04,651 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/main/resources
+2024-10-08 08:54:04,652 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/test/java
+2024-10-08 08:54:04,652 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BootSecurityProj03-SpringBootDataJPAAsAuthProvider/src/test/resources
+2024-10-08 08:54:06,803 [Worker-2: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BootSecurityProj01-FirstApp
+2024-10-08 08:54:06,900 [Worker-2: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BootSecurityProj02-DBAsAuthProvider
+2024-10-08 08:54:06,992 [Worker-2: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BootSecurityProj03-SpringBootDataJPAAsAuthProvider
+2024-10-08 08:54:07,072 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 3.00 sec 
+2024-10-08 08:54:08,423 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:08,423 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:08,428 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-10-08 08:54:08,566 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-08 08:54:08,574 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:08,575 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:08,575 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj01-FirstApp\src\test\resources
+2024-10-08 08:54:08,575 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BootSecurityProj01-FirstApp
+2024-10-08 08:54:08,576 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BootSecurityProj01-FirstApp
+2024-10-08 08:54:10,488 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:10,488 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:10,489 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-10-08 08:54:10,549 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-08 08:54:10,558 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:10,558 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:10,559 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj02-DBAsAuthProvider\src\test\resources
+2024-10-08 08:54:10,559 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BootSecurityProj02-DBAsAuthProvider
+2024-10-08 08:54:10,559 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BootSecurityProj02-DBAsAuthProvider
+2024-10-08 08:54:12,221 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:12,221 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:12,222 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-10-08 08:54:12,359 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2024-10-08 08:54:12,536 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-08 08:54:12,537 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-10-08 08:54:12,537 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Desktop\Boot-Sec\BootSecurityProj03-SpringBootDataJPAAsAuthProvider\src\test\resources
+2024-10-08 08:54:12,537 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BootSecurityProj03-SpringBootDataJPAAsAuthProvider
+2024-10-08 08:54:12,537 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BootSecurityProj03-SpringBootDataJPAAsAuthProvider

@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\admin\Desktop\Boot-Sec\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1886033337.index
+\BootSecurityProj01-FirstApp\src\main\java
+C:\Users\admin\Desktop\Boot-Sec\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\51943657.index
+\BootSecurityProj02-DBAsAuthProvider\src\main\java
